@@ -4,7 +4,6 @@
 
 # 📄 `README.md`
 
-````markdown
 # 🧮 Ada Lovelace Analytical Engine Virtual Machine (AE-VM)
 
 > A pure Python command-line virtual machine simulating how Ada Lovelace might have programmed Charles Babbage’s Analytical Engine, using modern computational models while honoring historical design.
