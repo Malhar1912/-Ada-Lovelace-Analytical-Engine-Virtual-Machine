@@ -220,7 +220,7 @@ End of Program
 
 ## 🤝 Contribution Guidelines
 
-We welcome contributions!
+I welcome contributions!
 
 * Fork the repository.
 * Create a feature branch.
@@ -239,7 +239,6 @@ This project is licensed under the MIT License.
 ## 👩‍💻 Author
 
 * **Malhar Pangarkar** — Tribute to Ada Lovelace
-* Twitter / LinkedIn: *add your handles here*
 
 ---
 
